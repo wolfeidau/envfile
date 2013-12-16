@@ -1,4 +1,4 @@
-# envfile
+# envfile [![Build Status](https://drone.io/github.com/wolfeidau/envfile/status.png)](https://drone.io/github.com/wolfeidau/envfile/latest)
 
 This module reads the contents env file and loads it into a map.
 
